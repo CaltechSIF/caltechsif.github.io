@@ -191,7 +191,7 @@ a:focus {
 }
 
 .mb {
-	margin-bottom: 60px;
+	margin-bottom: 30px;
 }
 
 .mt {
@@ -210,7 +210,7 @@ a:focus {
 	SITE WRAPS
 ################################################################# */
 
-#headerwrap {
+#headerwrap div{
 	background-color: #AAA99F;
 	min-height: 550px;
 	padding-top: 100px;
@@ -280,6 +280,10 @@ a:focus {
 .portfolio-item p {margin:0px 0 30px;}
 .portfolio-item h3 {margin:-10px 0 10px; font-size:16px; text-transform:uppercase;}
 
+.profile-box{
+	margin-top: 15px;
+	margin-bottom: 15px;
+}
 
 .tpl6 h3
 {
@@ -430,10 +434,14 @@ a:focus {
 	margin-left: 15px;
 }
 
-.ctitle {
+h5.ctitle {
 	color: #76777B;
 	font-weight: 700;
-	margin-bottom: 15px;
+	margin-bottom: 2px;
+}
+
+small.ctitle {
+	margin-bottom: 10px;
 }
 
 csmall {
