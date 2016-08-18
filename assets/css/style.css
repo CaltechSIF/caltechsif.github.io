@@ -123,8 +123,17 @@ a:focus {
 	border-color: transparent;
 }
 
+span.icon-bar{
+	color: #FFF;
+	background-color: #FFF !important;
+}
+
+.navbar-default .navbar-toggle:focus, .navbar-default .navbar-toggle:hover {
+    background-color: #AAA99F;
+}
+
 .dropdown-menu {
-	background: #FF6E1E;
+	background-color: #FF6E1E;
 }
 
 .dropdown-menu > li > a {
