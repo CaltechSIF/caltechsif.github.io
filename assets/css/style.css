@@ -9,6 +9,7 @@
 	
 ################################################################# */ 
 @import url(http://fonts.googleapis.com/css?family=Raleway:400,700,900);
+@import url(http://fonts.googleapis.com/css?family=Raleway);
 @import url(http://fonts.googleapis.com/css?family=Lato:400,900);
 @import url("prettyPhoto.css") screen;
 @import url("hoverex-all.css") screen;
@@ -259,6 +260,11 @@ span.icon-bar{
 	box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.15), 0 6px 20px 0 rgba(0, 0, 0, 0.1);
 	margin-top: 20px;
 	margin-bottom: 20px;
+}
+
+#headerwrap .row {
+	background-color: rgba(0, 0, 0, 0.4);
+    border-radius: 5px;
 }
 
 /* Services Wrap */
