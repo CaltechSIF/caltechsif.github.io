@@ -72,12 +72,12 @@ a:focus {
 ::-moz-selection  {
 	color: #fff;
 	text-shadow:none;
-	background:#e67e22;
+	background:#FF6E1E;
 }
 ::selection {
 	color: #fff;
 	text-shadow:none;
-	background:#e67e22;
+	background:#FF6E1E;
 }
 
 .centered {
@@ -121,7 +121,7 @@ a:focus {
 }
 
 .navbar-default {
-	background-color: #e67e22;
+	background-color: #FF6E1E;
 	border-color: transparent;
 }
 
@@ -131,11 +131,11 @@ span.icon-bar{
 }
 
 .navbar-default .navbar-toggle:focus, .navbar-default .navbar-toggle:hover {
-    background-color: #2c3e50;
+    background-color: #AAA99F;
 }
 
 .dropdown-menu {
-	background-color: #e67e22;
+	background-color: #FF6E1E;
 }
 
 .dropdown-menu > li > a {
@@ -146,8 +146,8 @@ span.icon-bar{
 
 .btn-theme {
   color: #fff;
-  background-color: #e67e22;
-  border-color: #e67e22;
+  background-color: #FF6E1E;
+  border-color: #FF6E1E;
   margin: 4px;
   transition: opacity .25s ease-in-out;
    -moz-transition: opacity .25s ease-in-out;
@@ -211,7 +211,7 @@ span.icon-bar{
 }
 
 .hline {
-	border-bottom: 2px solid #e67e22;
+	border-bottom: 2px solid #FF6E1E;
 }
 
 .hline-w {
@@ -229,7 +229,7 @@ span.icon-bar{
     background-size: cover;
     background-position: center;
 
-	background-color: #2c3e50;
+	background-color: #AAA99F;
 	min-height: 550px;
 	padding-top: 100px;
 	padding-bottom: 0px;
@@ -319,7 +319,7 @@ span.icon-bar{
 .tpl6 .dmbutton
 {
 	display:inline-block;
-	margin:30px 5px 20px 5px;
+	margin:20px 5px 15px 5px;
 	font-size:13px;
 }
 
@@ -327,7 +327,7 @@ span.icon-bar{
 {
 	height:100%;
 	width:100%;
-	background-color:#e67e22;
+	background-color:#C8C8C8;
 	text-align:center;
 }
 
@@ -385,7 +385,7 @@ span.icon-bar{
 #footerwrap {
 	padding-top: 10px;
 	padding-bottom: 10px;
-	background: #e67e22;
+	background: #FF6E1E;
 }
 
 #footerwrap p {
@@ -418,7 +418,7 @@ span.icon-bar{
 /* General Tweaks */
 
 #yellow-grey {
-	background: #2c3e50;
+	background: #AAA99F;
 	margin-top: 60px;
 	margin-bottom: 60px;
 	padding-top: 15px;
@@ -472,7 +472,7 @@ csmall {
 }
 csmall2 {
 	font-size: 12px;
-	color: #2c3e50
+	color: #AAA99F
 }
 
 .spacing {
@@ -481,7 +481,7 @@ csmall2 {
 }
 
 .badge-theme {
-	background: #e67e22;
+	background: #FF6E1E;
 }
 
 /* Contact Page */
